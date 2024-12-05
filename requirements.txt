@@ -6,7 +6,7 @@ httpx==0.24.1
 idna==3.4
 numpy==1.26.2
 opencv-python==4.8.1.78
-packaging @ file:///private/tmp/sip--packaging-20230420-6325-17j1k3e/packaging-23.1
+packaging==23.1
 Pillow==10.1.0
 ply==3.11
 pygame==2.5.0
